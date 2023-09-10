@@ -11,6 +11,7 @@
 </b> Certifications </b>
 - [(ISC)² Candidate](https://credly.com/badges/5913ff2a-9007-4b4a-a153-253cf945bc5c/linked_in_profile)
 - [SOC CORE SKILLS ](https://i.imgur.com/jG7LixS.jpeg)
+- [Cybersecurity Virtual Experience Program ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HKFnvqvwrNKYr5vDL_1687107151722_completion_certificate.pdf)
 
 <h2>📺 Popular YouTube Videos</h2>
 - []()
