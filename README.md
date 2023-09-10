@@ -9,7 +9,8 @@
 
     
 </b> Certifications </b>
-- [(ISC)² Candidate](https://credly.com/badges/5913ff2a-9007-4b4a-a153-253cf945bc5c/linked_in_profile) 
+- [(ISC)² Candidate](https://credly.com/badges/5913ff2a-9007-4b4a-a153-253cf945bc5c/linked_in_profile)
+- [SOC CORE SKILLS ](https://i.imgur.com/jG7LixS.jpeg)
 
 <h2>📺 Popular YouTube Videos</h2>
 - []()
