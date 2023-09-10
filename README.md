@@ -3,20 +3,15 @@
 <h2>👨‍💻 CyberSecurity  Projects:</h2>
 
 
-- <b>PowerShell</b>
+- <b>Linux</b>
   - [So you want to be a SOC Analyst? By Eric Capuano](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
     
 <h2> Certifications </h2>
-- [(ISC)² Candidate](https://www.credly.com/badges/5913ff2a-9007-4b4a-a153-253cf945bc5c/linked_in_profile)
+- [(ISC)² Candidate] (https://www.credly.com/badges/5913ff2a-9007-4b4a-a153-253cf945bc5c/linked_in_profile)
 
 <h2>📺 Popular YouTube Videos</h2>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
