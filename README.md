@@ -1,17 +1,15 @@
-<h1>Hi, I'm Marfo! <br/>, <a href=https://www.linkedin.com/in/kwadwo-marfo-owusu-sekyere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Marfo! <br/> <a href=https://www.linkedin.com/in/kwadwo-marfo-owusu-sekyere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 CyberSecurity  Projects:</h2>
 
 
-- <b>Linux</b>
+- <b>Linux, VM Ware</b>
   - [So you want to be a SOC Analyst? By Eric Capuano](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part)
   - [Brute Force Attack with Metasploit Home Lab)](https://github.com/kwadwoObit/BruteForceAttackswithMetaa)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
     
-<h2> Certifications </h2>
-- [(ISC)² Candidate](https://www.credly.com/badges/5913ff2a-9007-4b4a-a153-253cf945bc5c/linked_in_profile) 
+</b> Certifications </b>
+- [(ISC)² Candidate](https://credly.com/badges/5913ff2a-9007-4b4a-a153-253cf945bc5c/linked_in_profile) 
 
 <h2>📺 Popular YouTube Videos</h2>
 - []()
